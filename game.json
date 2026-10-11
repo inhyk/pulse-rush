@@ -6,7 +6,9 @@
   "emoji": "🎵",
   "thumbnail": "/images/games/pulse-rush-thumb.png",
   "screenshots": [
-    "/images/games/pulse-rush-thumb.png"
+    "/images/games/pulse-rush-1.png",
+    "/images/games/pulse-rush-2.png",
+    "/images/games/pulse-rush-3.png"
   ],
   "techStack": [
     "JavaScript",
@@ -14,8 +16,10 @@
     "Web Audio"
   ],
   "category": "리듬",
-  "playUrl": "/play/pulse-rush",
+  "playUrl": "https://pulse-rush-five.vercel.app",
   "createdAt": "2026-10",
   "featured": true,
-  "order": 49
+  "order": 49,
+  "githubUrl": "https://github.com/inhyk/pulse-rush",
+  "repo": "inhyk/pulse-rush"
 }
